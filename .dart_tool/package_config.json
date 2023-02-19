@@ -143,10 +143,10 @@
       "name": "flutter_complete_guide",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.10"
     }
   ],
-  "generated": "2023-02-19T16:23:09.003217Z",
+  "generated": "2023-02-19T16:45:53.012959Z",
   "generator": "pub",
   "generatorVersion": "2.19.1"
 }
